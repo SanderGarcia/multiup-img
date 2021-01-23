@@ -1,7 +1,7 @@
 # multiup-img
 
 Plugin desenvolvido por <a href="https://sandergarcia.github.io/" target="_blank">Sander Garcia</a><br>
-Página do plugin <a href="https://sandergarcia.github.io/multiup-img/" target="_blank">MULTIUP-IMG</a>
+Página do plugin <a href="https://sandergarcia.github.io/multiup-img" target="_blank">MULTIUP-IMG</a>
 
 <p>
     Plugin front-end gratuito para visualização de imagem antes de fazer upload.<br>
